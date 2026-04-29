@@ -18,6 +18,10 @@ Puedes probar el juego aquí:
 - Eventos y mecánicas de juego
 - Compatible con navegador web
 
+📸 Vista previa
+
+![Vista previa](./img/image.png)
+
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
