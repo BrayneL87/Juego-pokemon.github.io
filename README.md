@@ -1,6 +1,3 @@
-# Juego-pokemon.github.io
-https://braynel87.github.io/Juego-pokemon.github.io/
-
 
 # 🎮 Juego Pokémon
 
